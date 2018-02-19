@@ -1,0 +1,5 @@
+task oth{
+    doLast {
+        println("Hello from mytasks side :D")
+    }
+}
